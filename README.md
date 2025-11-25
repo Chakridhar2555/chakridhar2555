@@ -3,115 +3,112 @@
 <h3 align="center">Founder • Software Architect • AI Innovator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Founder+of+Ncharudh+Solution+%26+Urban+Edge+CRM;Building+AI+Powered+CRM%2C+ERP%2C+SaaS+Platforms;Full-Stack+Developer+%7C+AI%2FML+Engineer;Turning+Ideas+Into+Scalable+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Founder+of+Ncharudh+Solution+%26+Urban+Edge+CRM;Building+AI+Powered+CRM%2C+ERP+%26+SaaS+Platforms;Full-Stack+Developer+%7C+AI%2FML+Engineer;Turning+Ideas+Into+Scalable+Products" />
 </p>
 
 ---
 
-# 🧑‍💼 **About Me — The Founder’s Story**
-I’m **N. Chakridhar**, the founder of  
-**Ncharudh Solution** & **Urban Edge CRM Pvt Ltd**,  
-where we build **modern CRM, ERP, SaaS, AI-driven applications, VR solutions, and Enterprise automation systems**.
+# 🧑‍💼 About Me — The Founder’s Story  
+I’m **N. Chakridhar**, Founder of  
+**Ncharudh Solution** & **Urban Edge CRM Pvt Ltd**.
 
-🔹 5+ years of building production-level software  
-🔹 Full-stack developer specializing in **Next.js, TS, Flutter & Python**  
-🔹 Leading teams & delivering **international client solutions (India & Canada)**  
-🔹 Passionate about **AI, Cloud, Automation, VR & Business-Tech Integration**
+I specialize in building  
+⚡ AI-driven CRM Systems  
+⚡ Next.js / Flutter SaaS Platforms  
+⚡ ERP, Automation & Enterprise Solutions  
+⚡ VR-based Mental Health Systems  
 
-📌 *My mission:*  
-**To build intelligent systems that simplify business processes and empower companies with automation.**
+### 🎯 My Mission  
+**Build intelligent systems that automate business workflows and create real-world impact.**
 
 ---
 
-# 🏢 **Founder & Products**
-### 🚀 **Ncharudh Solution — Products Delivered**
-| Product / Platform | Type | Client | Status |
-|-------------------|------|--------|--------|
+# 🏢 Companies & Products
+
+### 🚀 **Solutions Delivered**
+| Product/Platform | Type | Client | Status |
+|------------------|------|--------|--------|
 | Urban Edge CRM | Real Estate CRM | Get Home Realty | Live |
-| Vyomik Drones CRM | Agriculture Drone CRM | Vyomik Drones | Completed |
-| Owldrip Store | E-commerce Clothing | Owldrip | Live |
-| Vigved Innovations | Event Management App | Vigved | Deployed |
-| Villafest | Event Platform – iOS, Android, Web | TeamApartX | In Progress |
+| Vyomik Drones CRM | Agriculture Drone CRM | Vyomik Drones | Delivered |
+| Owldrip Store | E-Commerce Clothing | Owldrip | Live |
+| Vigved Innovations App | Event Management | Vigved | Completed |
+| Villafest | Event Platform (iOS/Android/Web) | TeamApartX | In Development |
 | Meenakshi Fin Services | Finance Website | MFS | Live |
-| BuyEasyRealty | Property Platform | Canada | Completed |
-
-📌 *All built with: Next.js, React Native, Flutter, FastAPI, Node.js, AWS, Firebase.*
+| BuyEasyRealty | Real Estate Platform | Canada | Live |
 
 ---
 
-# 🧠 **What I’m Building Now**
-### 🚀 AI-Powered Real Estate CRM  
-✓ Lead automation  
-✓ AI-driven recommendations  
-✓ Smart document processing  
-✓ MLS integrations (Canada)
+# 🔥 What I'm Building Now
+### 🚀 **AI Real Estate CRM**
+- AI lead scoring  
+- MLS integration (Canada)  
+- Auto document extraction  
+- Smart workflows  
 
-### 🧠 VR Mental Health Project (with NeuroEase)  
-✓ Immersive therapy  
-✓ Real-time analytics  
-✓ VR cognitive sessions  
+### 🧠 **VR Mental Health Project**
+- Immersive VR therapy  
+- Cognitive session models  
+- Real-time emotional analytics  
 
 ---
 
-# 🌐 **Connect With Me**
-<p align="left">
+# 🌐 Connect With Me  
+<p>
   <a href="https://www.instagram.com/chakrinaidu___/"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
   <a href="https://www.linkedin.com/in/n-chakridhar-624792232/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
 </p>
 
 ---
 
-# 🛠️ **Tech Leadership Stack**
-### **Product Engineering**
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,express,ts,python,java" />
-</p>
+# 🛠️ Tech Leadership Stack
+
+### **Core Development**
+<p><img src="https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,ts,python,java,fastapi" /></p>
 
 ### **Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,firebase,cloudflare,vercel,netlify" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=aws,azure,firebase,cloudflare,vercel,netlify" /></p>
 
-### **Database & Architecture**
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" />
-</p>
+### **Databases**
+<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,sqlite" /></p>
 
-### **Design, Branding & Product UX**
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,ps,ae,pr,canva" />
-</p>
+### **UI/UX & Branding**
+<p><img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,xd,canva" /></p>
 
 ---
 
-# 📈 Company Stats & Achievements
-### 🌟 **What I’ve Achieved as a Founder**
-- Built **40+ member team** across development, cloud, and design  
-- Delivered **12+ production projects** end-to-end  
-- Developed **international SaaS solutions** (India & Canada)  
-- Designed & scaled **AI-driven CRM systems**  
-- Created **best-application award–winning solutions**  
+# 📈 Company Achievements  
+⭐ Built a 40+ member development + cloud + design team  
+⭐ Delivered 12+ end-to-end enterprise projects  
+⭐ Created award-winning applications  
+⭐ Launched scalable AI & SaaS solutions  
+⭐ Working internationally (India + Canada)  
 
 ---
 
 # 📊 GitHub Analytics
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Chakridhar2555&show_icons=true&theme=radical&hide_border=true">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Chakridhar2555&theme=radical&hide_border=true">
+  <img height="180" src="https://github-stats-alpha.vercel.app/api?username=Chakridhar2555&cc=000&tc=fff&ic=fff&bc=000" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=Chakridhar2555&theme=dark&hide_border=true" />
 </p>
 
----
-
-# 🧩 Leadership Philosophy
-> **"Technology is powerful, but building people and systems around it is what creates impact."**  
-> — *N. Chakridhar*
+<p align="center">
+  <img height="180" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Chakridhar2555&layout=compact&cc=000&tc=fff&ic=fff&bc=000" />
+</p>
 
 ---
 
 # 👁 Visitor Count
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Chakridhar2555&icon=0&color=6" />
+  <img src="https://profile-counter.glitch.me/Chakridhar2555/count.svg" />
 </p>
+
+---
+
+# 🧩 Leadership Philosophy
+
+> **"Technology scales products. Leadership scales companies."**  
+> — *N. Chakridhar*
 
 ---
 
