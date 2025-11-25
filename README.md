@@ -1,115 +1,84 @@
-<!-- HERO SECTION -->
-<h1 align="center">👋 Hi, I'm <strong>N. Chakridhar</strong></h1>
-<h3 align="center">Founder • Software Architect • AI Innovator</h3>
+# 🌐 **N. Chakridhar — Founder, Full-Stack Architect & Tech Innovator**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Founder+of+Ncharudh+Solution+%26+Urban+Edge+CRM;Building+AI+Powered+CRM%2C+ERP+%26+SaaS+Platforms;Full-Stack+Developer+%7C+AI%2FML+Engineer;Turning+Ideas+Into+Scalable+Products" />
-</p>
+### 🚀 Building AI-Driven Systems | CRM-ERP Architect | VR Innovator | Founder of Ncharudh Solution & Mnoch Urban Edge CRM
 
----
+## 🧑‍💼 **About Me**
+I am a technology founder, full-stack engineer, and product architect
+building scalable, high-impact digital ecosystems across:
 
-# 🧑‍💼 About Me — The Founder’s Story  
-I’m **N. Chakridhar**, Founder of  
-**Ncharudh Solution** & **Urban Edge CRM Pvt Ltd**.
+- **AI/ML**
+- **Real Estate CRM**
+- **Enterprise ERP Systems**
+- **iOS / Android Apps**
+- **Cloud Platforms**
+- **VR-Based Mental Health Systems**
 
-I specialize in building  
-⚡ AI-driven CRM Systems  
-⚡ Next.js / Flutter SaaS Platforms  
-⚡ ERP, Automation & Enterprise Solutions  
-⚡ VR-based Mental Health Systems  
-
-### 🎯 My Mission  
-**Build intelligent systems that automate business workflows and create real-world impact.**
+My products serve companies across **India, Canada, Australia & Middle East**.
 
 ---
 
-# 🏢 Companies & Products
-
-### 🚀 **Solutions Delivered**
-| Product/Platform | Type | Client | Status |
-|------------------|------|--------|--------|
-| Urban Edge CRM | Real Estate CRM | Get Home Realty | Live |
-| Vyomik Drones CRM | Agriculture Drone CRM | Vyomik Drones | Delivered |
-| Owldrip Store | E-Commerce Clothing | Owldrip | Live |
-| Vigved Innovations App | Event Management | Vigved | Completed |
-| Villafest | Event Platform (iOS/Android/Web) | TeamApartX | In Development |
-| Meenakshi Fin Services | Finance Website | MFS | Live |
-| BuyEasyRealty | Real Estate Platform | Canada | Live |
+## 🏢 **Companies I Founded**
+- **Ncharudh Solution Pvt Ltd**
+- **Mnoch Urban Edge CRM Pvt Ltd**
 
 ---
 
-# 🔥 What I'm Building Now
-### 🚀 **AI Real Estate CRM**
-- AI lead scoring  
-- MLS integration (Canada)  
-- Auto document extraction  
-- Smart workflows  
+## 🛠️ **Products & Projects**
 
-### 🧠 **VR Mental Health Project**
-- Immersive VR therapy  
-- Cognitive session models  
-- Real-time emotional analytics  
-
----
-
-# 🌐 Connect With Me  
-<p>
-  <a href="https://www.instagram.com/chakrinaidu___/"><img src="https://skillicons.dev/icons?i=instagram" height="40"></a>
-  <a href="https://www.linkedin.com/in/n-chakridhar-624792232/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"></a>
-</p>
+### 🚀 **AI, CRM, ERP & Product Ecosystem**
+- 🏡 *GetHomeRealty CRM (Canada)* — AI-Driven Real Estate CRM
+- 🧠 *VR Mental Health System* — In collaboration with **NeuroEase**
+- 🎯 *Real Estate AI Modules* — MLS, OCR, Automated Documents
+- 🧬 *Drones Agriculture CRM* — (Vyomik Drones)
+- 🎪 *Event & Fest Applications* — (Vigved Innovations, Villafest)
+- 🛍️ *Owldripstore* — Full E-Commerce + Admin
+- 💰 *Meenakshi Finservices* — Finance Portal + Lead System
+- 🏠 *BuyeasyRealty (Canada)* — Real Estate Platform
+- 🏢 *ERP Systems* — HR, Accounting, Inventory, Automation
 
 ---
 
-# 🛠️ Tech Leadership Stack
+## ⚡ **Tech Stack**
 
-### **Core Development**
-<p><img src="https://skillicons.dev/icons?i=nextjs,react,flutter,nodejs,ts,python,java,fastapi" /></p>
+### 💻 **Frontend**
+React • Next.js • TypeScript • Tailwind • Chakra UI • HTML • CSS • Figma UI/UX
 
-### **Cloud & DevOps**
-<p><img src="https://skillicons.dev/icons?i=aws,azure,firebase,cloudflare,vercel,netlify" /></p>
+### 🧠 **Backend**
+Node.js • Express • Python • FastAPI • API Architectures
 
-### **Databases**
-<p><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,sqlite" /></p>
+### 🗄️ **Databases**
+PostgreSQL • MongoDB • MySQL • Redis
 
-### **UI/UX & Branding**
-<p><img src="https://skillicons.dev/icons?i=figma,ps,pr,ae,xd,canva" /></p>
+### ☁️ **Cloud & DevOps**
+AWS • GCP • DigitalOcean • CI/CD • Docker • Linux
 
----
-
-# 📈 Company Achievements  
-⭐ Built a 40+ member development + cloud + design team  
-⭐ Delivered 12+ end-to-end enterprise projects  
-⭐ Created award-winning applications  
-⭐ Launched scalable AI & SaaS solutions  
-⭐ Working internationally (India + Canada)  
+### 🤖 **AI/ML**
+Computer Vision • NLP • Recommendation Systems • Automation AI
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 **GitHub Analytics**
 
-<p align="center">
-  <img height="180" src="https://github-stats-alpha.vercel.app/api?username=Chakridhar2555&cc=000&tc=fff&ic=fff&bc=000" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=Chakridhar2555&theme=dark&hide_border=true" />
-</p>
+### 🔥 GitHub Stats  
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Chakridhar2555&show_icons=true&theme=tokyonight" />
 
-<p align="center">
-  <img height="180" src="https://github-stats-alpha.vercel.app/api/top-langs/?username=Chakridhar2555&layout=compact&cc=000&tc=fff&ic=fff&bc=000" />
-</p>
+### 🔥 Contribution Streak  
+<img height="180" src="https://streak-stats.demolab.com?user=Chakridhar2555&theme=tokyonight&hide_border=false" />
 
----
-
-# 👁 Visitor Count
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Chakridhar2555/count.svg" />
-</p>
+### 🔥 Top Languages  
+<img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Chakridhar2555&layout=compact&theme=tokyonight" />
 
 ---
 
-# 🧩 Leadership Philosophy
+## 👁 **Visitor Count**
+<img src="https://profile-counter.glitch.me/Chakridhar2555/count.svg" />
 
+---
+
+## 🧩 **Leadership Philosophy**
 > **"Technology scales products. Leadership scales companies."**  
 > — *N. Chakridhar*
 
 ---
 
-<h3 align="center">✨ Crafted with Vision, Code & Leadership — by Chakridhar ✨</h3>
+✨ **Crafted with Vision, Code & Leadership — by Chakridhar** ✨
